@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Información Académica</title>
+<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+<header>
+<h1>Información Académica</h1>
+<img src="imagenes/info_academica.jpg">
+<h2>Aquí encontrarás un historial de mis estudios</h2>
+</header>
+<main>
+ <h1><u><strong>Estudios universitarios</strong></u></h1>
+<div class="lista-centrada">
+<ol>
+<li><p>Grado en Psicología (UNED, Sevilla, 02/02/2013)</p></li>
+</ol>
+
+ <h1><u><strong>Cursos realizados</strong></u></h1>
+
+ <h2>-Cursos UDEMY</h2>
+<div class="lista-centrada">
+<ol>
+ <li>Psicología Cognitiva para Dummies (50h)</li>
+ <li>"Los milagros de autoestima alta" (75h)</li>
+ <li>Anatomía neuronal y la alimentación (10h)</li>
+ <li>El poder de los prebióticos (90h)</li>
+</ol>
+
+ <h2>-Cursos presenciales</h2>
+<div class="lista-centrada">
+<ol>
+ <li>El poder del Mindfulness</li>
+ <li>Ansiedad crónica (40h)</li>
+ </ul>
+</main>
+<nav>
+<h2>Abajo dispondrás de los enlaces para navegar por mi currículum.</h2>
+<ul>
+   <li><a href="info_personal.html">Información personal sobre mí</a></li>
+   <li><a href="info_academica.html">Información sobre mis titulaciones (estudios, cursos etc)</a></li>
+    <li><a href="experiencia.html">Aquí hablaré de qué casos he tenido y experiencias generales</a></li>
+    <li><a href="otros.html">Hobbies y características sobre mí que considero que aportan mucho a la profesión</a></li>
+    <li><a href="index.html">Volver al inicio del currículum</a></li>
+</ul>
+</nav>
+<footer>
+<p>Puedes ponerte en contacto conmigo a través del siguiente formulario <a href="contacto.html">Formulario de contacto</a>
+</footer>
+</body>
+</html>
+
